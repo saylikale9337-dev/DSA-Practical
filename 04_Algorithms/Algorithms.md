@@ -1,4 +1,3 @@
-Algorithm: 
 Step 1: Start the program.
 Step 2: Create an empty linked list.
 Step 3: Display menu options:
