@@ -9,7 +9,7 @@ Singly Linked List.
 - [Code](01_code/main.cpp/)
 - [Problem Statement](02_Problem_statement/problem_statement.md/)
 - [Objectives](03_Objectives/Objectives.md/)
-- [Algorithm](04_Algorithm/)
+- [Algorithm](04_Algorithms/Algorithms.md/)
 - [Flowchart](05_Flowchart/)
 - [Output](06_Output/)
 
