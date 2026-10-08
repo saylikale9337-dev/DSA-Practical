@@ -7,11 +7,11 @@ Singly Linked List.
 ## 📂 Project Contents
 
 - [Code](01_code/main.cpp/)
-- [Problem Statement](02_Problem-statement/Problem-statement.md)
+- [Problem Statement](02_Problem_Statement/Problem_statement.md/)
 - [Objectives](03_Objectives/objectives.md/)
-- [Algorithm](04_Algorithm/)
-- [Flowchart](05_Flowchart/)
-- [Output](06_Output/)
+- [Algorithm](04_Algorithm/Algorithm.md/)
+- [Flowchart](05_Flowchart/Flowchart.png/)
+- [Output](06_Output/Output.png/)
 
 ## 🛠 Technologies Used
 
