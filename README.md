@@ -4,7 +4,7 @@
 A C++ based Space Mission Task Management implemented using a
 Singly Linked List.
 
-## 📂 Project Contents
+##  Project Contents
 
 - [Code](01_code/main.cpp/)
 - [Problem Statement](02_Problem_statement/problem_statement.md/)
