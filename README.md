@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 A C++ based Space Mission Task Management implemented using a
-Singly Linked List.
+Singly Linked List. The changed to Doubly Linked list and Circular linked list
 
 ## 📂Project Contents
 
@@ -17,7 +17,7 @@ Singly Linked List.
 
 - C++
 - Data Structures
-- Singly Linked List
+- Singly Linked List Changed to Doubly Linked list and Circular linked list.
 - Dev-C++ / Visual Studio Code
 
 ## 👨‍💻 Project
