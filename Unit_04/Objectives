@@ -1,0 +1,9 @@
+Objectives
+
+1.To understand the concept and structure of an AVL tree.
+2.To implement insertion operations in an AVL tree using C++.
+3.To calculate the balance factor of each node.
+4.To identify the LL imbalance caused by inserting elements in the left subtree.
+5.To perform right rotation to balance the tree.
+6.To display the elements of the balanced AVL tree using inorder traversal.
+7.To understand how AVL trees maintain balance and improve searching efficiency.
