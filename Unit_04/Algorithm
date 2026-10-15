@@ -1,0 +1,14 @@
+Algorithm
+
+Step 1: Start the program.
+Step 2: Define a node structure containing data, left pointer, right pointer, and height.
+Step 3: Create an empty AVL tree with the root initially set to NULL.
+Step 4: Insert element 50 into the tree. Since the tree is empty, 50 becomes the root node.
+Step 5: Insert element 40. Since 40 is less than 50, insert it as the left child of 50.
+Step 6: Insert element 30. Since 30 is less than both 50 and 40, insert it as the left child of 40.
+Step 7: Update the height of each node and calculate its balance factor using:
+Step 8: Check the balance factor of node 50. The insertion of 30 creates an LL imbalance at node 50.
+Step 9: Perform a right rotation at node 50 to restore the balance of the tree.
+Step 10: Update the heights of the affected nodes after rotation.
+Step 11: Display the balanced AVL tree using inorder traversal.
+Step 12: Stop the program.
