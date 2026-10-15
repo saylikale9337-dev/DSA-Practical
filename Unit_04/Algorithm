@@ -12,3 +12,26 @@ Step 9: Perform a right rotation at node 50 to restore the balance of the tree.
 Step 10: Update the heights of the affected nodes after rotation.
 Step 11: Display the balanced AVL tree using inorder traversal.
 Step 12: Stop the program.
+
+
+Changed Algorithm:
+1.Start the program.
+2.Define a node structure containing data, height, left pointer, and right pointer.
+3.Initialize the AVL tree with a NULL root.
+4.Accept the number of elements from the user.
+5.Read the elements one by one.
+6.Insert each element according to Binary Search Tree insertion rules.
+7.Update the height of each node after insertion.
+8.Calculate the balance factor using:
+Balance Factor = Height of Left Subtree − Height of Right Subtree
+9.Check whether the balance factor indicates an LL imbalance.
+10.If an LL imbalance is detected:
+Display the unbalanced subtree.
+Display the balance factors of the affected nodes.
+Perform a right rotation.
+Display the balanced subtree and updated balance factors.
+11.Handle other imbalance cases (RR, LR, and RL) using their respective rotations.
+12.Display the final AVL tree.
+13.Display the inorder traversal of the tree.
+14.Report whether an LL imbalance was detected.
+15.Stop the program.
