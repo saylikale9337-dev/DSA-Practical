@@ -1,0 +1,5 @@
+Problem Statement
+To write a C++ program to insert the elements 50, 40, and 30 into an AVL tree and perform the required LL (Left-Left)
+rotation to maintain the balance of the tree.
+The program is further modified to display the tree before and after rotation, 
+print the balance factors of affected nodes, and accept user input to detect whether the given sequence causes an LL imbalance.
