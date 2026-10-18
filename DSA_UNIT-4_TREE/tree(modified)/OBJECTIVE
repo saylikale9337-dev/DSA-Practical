@@ -1,0 +1,9 @@
+Objectives:
+1.To understand the concept and working of an AVL tree.
+2.To insert elements into an AVL tree using Binary Search Tree insertion rules.
+3.To detect an LL imbalance after inserting elements.
+4.To perform right rotation to balance the AVL tree.
+5.To display the tree structure before and after rotation.
+6.To calculate and display the balance factors of affected nodes.
+7.To accept a user-defined sequence and identify whether it causes an LL imbalance.
+8.To test the program using different input sequences and edge cases.
